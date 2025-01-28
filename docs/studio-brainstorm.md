@@ -85,7 +85,8 @@ lualikes.com
 
 -- **Sketches/Logo**:
 
----![Untitled_Artwork (8)](https://github.com/user-attachments/assets/a25d40f2-1f32-4eb7-b31b-673394d2e2d1)
+
+![Untitled_Artwork (8)](https://github.com/user-attachments/assets/2fbb3bb7-13a4-4838-bb99-573b0c48e7c0)
 
 
 ## Additional Notes
