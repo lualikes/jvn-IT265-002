@@ -24,7 +24,7 @@ lualikes.com
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [To create strange experiences that balance the player's thoughts with entertaining gameplay.]
+> [To create strange experiences that balance thought with entertaining gameplay.]
 
 ---
 
@@ -59,7 +59,7 @@ lualikes.com
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [We want to bring interesting stories to styles of games that haven't seen them before. ]
+> [We want to bring interesting and complex stories to styles of games that haven't seen them before. ]
 
 ---
 
@@ -85,7 +85,8 @@ lualikes.com
 
 -- **Sketches/Logo**:
 
----
+---![Untitled_Artwork (8)](https://github.com/user-attachments/assets/a25d40f2-1f32-4eb7-b31b-673394d2e2d1)
+
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
