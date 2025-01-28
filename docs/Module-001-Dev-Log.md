@@ -27,12 +27,9 @@
 
 #### Free Thinking
 -  I just did the Global Game Jam and it definitely helped me test out some ideas and learn more about coding and aesthetics in a game. I still don’t know if I want to make purely a card game or more of a board game.A board game might be more technically complicated but with a card game I might have to rely on simpler mechanics, (which means I need to make sure those are fun). 
-<!--
 
-  
--->
 
 #### Next Steps
 1. Getting basic ideas for the direction of my game.
 2. Think more about whether I should use Godot, Unity, or GameMaker Studio 2.
-3. Learn more basics about game design.-->
+3. Learn more basics about game design.
