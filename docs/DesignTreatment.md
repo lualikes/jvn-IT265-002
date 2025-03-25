@@ -7,7 +7,7 @@ Attack of the Vampirates!
 ---
 
 ## Concept Statement
-A spooky-themed board game where every choice matters, from where you travel to on a board to which characters you talk to, and card battles that balance luck with strategy. 
+- A spooky-themed board game where every choice matters, from where you travel to on a board to which characters you talk to, and card battles that balance luck with strategy. 
 ---
 
 ## Genre and Style
@@ -17,20 +17,20 @@ Multiplayer Card Battling Strategy Game
 Subgenres: Narrative-focused, action, dueling card game
 
 ### Style
-A silly and spooky tale of pirates and vampires told through dark colors and detailed pixel art.
-Detailed character art with a focus on purple and red tones.
-Strategic gameplay where choices matter.
-Smooth UI and attention-getting visuals.
+- A silly and spooky tale of pirates and vampires told through dark colors and detailed pixel art.
+- Detailed character art with a focus on purple and red tones.
+- Strategic gameplay where choices matter.
+- Smooth UI and attention-getting visuals.
 ---
 
 ## Target Audience
 
 ### Demographics
-Target Audience: Casual gamers, horror fans, more dedicated gamers, fans of narrative-driven strategy, tabletop gamers
-Ages: appropriate for ages 13+, target age will be teens to young adults. 
+- Target Audience: Casual gamers, horror fans, more dedicated gamers, fans of narrative-driven strategy, tabletop gamers
+- Ages: appropriate for ages 13+, target age will be teens to young adults. 
 ### Accessibility
-Later on in the digital prototype if I keep working on this, I will implement a colorblind mode and a spanish language mode.
-Different gameplay modes at varying levels of difficulty
+- Later on in the digital prototype if I keep working on this, I will implement a colorblind mode and a spanish language mode.
+- Different gameplay modes at varying levels of difficulty
  
 
 ### Inclusivity Strategies
@@ -91,14 +91,14 @@ What is the player’s role in the story, and what major events drive the gamepl
 
 
 ### Characters
-First Crew:
-Celia: This stoic captain is banned in 22 territories. Where she goes, legend follows, what secrets is she hiding?
-Ambrose: An eccentric bartender with a selection of brews that can be used to hurt an enemy or help a friend.
-Jelly: A sea monster who broke into your ship and stayed there. Turns out they're a pretty chill guy but they go crazy in battle.
-Second Crew:
-Lord Frederick: This disgraced noble brought his holy books with him to cast spells on the seas.
-Walker: A former hunter and explorer with the best shot in the business and a love for grappling hooks. She also gardens on the side.
-Maria: A known thief with a hoarding problem. Rumor has it she's hiding her expensive weapon collection somewhere on the ship. Don't tell Lord Frederick that most of her loot comes straight from the royal treasury.
+- First Crew:
+- Celia: This stoic captain is banned in 22 territories. Where she goes, legend follows, what secrets is she hiding?
+- Ambrose: An eccentric bartender with a selection of brews that can be used to hurt an enemy or help a friend.
+- Jelly: A sea monster who broke into your ship and stayed there. Turns out they're a pretty chill guy but they go crazy in battle.
+- Second Crew:
+- Lord Frederick: This disgraced noble brought his holy books with him to cast spells on the seas.
+- Walker: A former hunter and explorer with the best shot in the business and a love for grappling hooks. She also gardens on the side.
+- Maria: A known thief with a hoarding problem. Rumor has it she's hiding her expensive weapon collection somewhere on the ship. Don't tell Lord Frederick that most of her loot comes straight from the royal treasury.
 ---
 
 ## Unique Selling Points (USP)
@@ -117,78 +117,78 @@ Movies: Pirates Band of Misfits!
 Games: Hades, War
 
 ### Why It Matters
-Some of the story elements and aesthetics of vampires and pirates come from the first two sources. This helped me come up with character designs.
-The detailed style and colors of Hades inspired my choices. 
+- Some of the story elements and aesthetics of vampires and pirates come from the first two sources. This helped me come up with character designs.
+- The detailed style and colors of Hades inspired my choices. 
 
 
 ---
 
 ## Player Experience Goals
-Constant engagement: Feeling like every action matters should keep the player involved at all times.
-Humor and excitement: The characters and jokes should make for a fun experience.
-Suspense: The balance of mechanics and different ways to win should build tension.
-Rewarding battles: The decisions in battle should led to a satisfying win.  
+- Constant engagement: Feeling like every action matters should keep the player involved at all times.
+ Humor and excitement: The characters and jokes should make for a fun experience.
+- Suspense: The balance of mechanics and different ways to win should build tension.
+- Rewarding battles: The decisions in battle should led to a satisfying win.  
 
 ---
 
 ## Technical Requirements
 
 ### Platform
-PC
-Possibly mobile in the future
+- PC
+- Possibly mobile in the future
 
 ### Tools
-Digital Prototype: Godot and Tabletopia 
-Art: Aseprite and Procreate
-Sound: freesound.org
+- Digital Prototype: Godot and Tabletopia 
+- Art: Aseprite and Procreate
+- Sound: freesound.org
 
 ---
 
 ## Art and Sound Direction
 
 ### Visual Style
-Hand Drawn 2D pixel art of each character, eventually with smooth animations.
-Focusing on deep reds and shades of purple, along with respective complementary colors.
-Detailed lineart and shading with more purple tones.
-Minimal UI elements, but each keeping with a pirate theme.
+- Hand Drawn 2D pixel art of each character, eventually with smooth animations.
+- Focusing on deep reds and shades of purple, along with respective complementary colors.
+- Detailed lineart and shading with more purple tones.
+- Minimal UI elements, but each keeping with a pirate theme.
 
 ### Sound Design
-Spooky music to build atmosphere and tension
-Water/splash sound effects for fishing minigame
-Subtle menu and card sound effects to increase immersion
-Sword and spell sounds during card battles
+- Spooky music to build atmosphere and tension
+- Water/splash sound effects for fishing minigame
+- Subtle menu and card sound effects to increase immersion
+- Sword and spell sounds during card battles
 
 ---
 
 ## Monetization Strategy
-One time purchase digitally 
-Small DLCs with new stories/characters
+- One time purchase digitally 
+- Small DLCs with new stories/characters
 ---
 
 ## Treatment Details
 
 ### Gameplay Example
 
-Player 1 rolls 3 dice, 1 for each of their characters, and moves each based on that amount.
-Player 1 lands on a fishing space so they try to throw a net to capture as many fish as possible.
-Player 2 rolls 3 dice and moves each character based on that amount.
-Player 2 lands on the same space as one of player 1’s characters, so a battle is initiated.
-Player 1 draws 3 cards, discards 2. And repeats this process for each of their characters. 
-When all characters on Player 1’s team have their remaining cards, these will do damage to Player 2 based on their color and number. Then it’s Player 2’s turn.
-This will repeat until 1 character on either team dies.
+- Player 1 rolls 3 dice, 1 for each of their characters, and moves each based on that amount.
+- Player 1 lands on a fishing space so they try to throw a net to capture as many fish as possible.
+- Player 2 rolls 3 dice and moves each character based on that amount.
+- Player 2 lands on the same space as one of player 1’s characters, so a battle is initiated.
+- Player 1 draws 3 cards, discards 2. And repeats this process for each of their characters. 
+- When all characters on Player 1’s team have their remaining cards, these will do damage to Player 2 based on their color and number. Then it’s Player 2’s turn.
+- This will repeat until 1 character on either team dies.
 ---
 
 ### Challenges and Considerations
 
 #### Potential Risks
-Player Confusion: I think I need to write the rules more clearly.
-Overwhelming the player: There might be too many modes and I might need to narrow it down.
-Player Boredom: I need to test it more to make sure it’s fun.
+- Player Confusion: I think I need to write the rules more clearly.
+- Overwhelming the player: There might be too many modes and I might need to narrow it down.
+- Player Boredom: I need to test it more to make sure it’s fun.
 
 #### Feasibility
-Time: I don’t think I have enough time this semester to get a lot done, but hopefully I manage time well.
-Skill: A big barrier is that I’m not great at coding so I don’t know how much I’ll be able to accomplish. I’ll try to watch tutorials. 
-Feasibility of small prototype: I think I can get a simple enough prototype done by the end of this class.
+- Time: I don’t think I have enough time this semester to get a lot done, but hopefully I manage time well.
+- Skill: A big barrier is that I’m not great at coding so I don’t know how much I’ll be able to accomplish. I’ll try to watch tutorials. 
+- Feasibility of small prototype: I think I can get a simple enough prototype done by the end of this class.
 
 ---
 
@@ -204,14 +204,14 @@ Feasibility of small prototype: I think I can get a simple enough prototype done
 "Attack of the Vampirates!" incorporates character-driven gameplay and fast paced card battles for a chaotically spooky board game experience. Mini games, randomness, and 3 gameplay modes create endless fun through a different adventure every round. With its blend of horror and humor, this strategic board game can fulfill a niche audience whilst attracting all types of players through its user-friendly rules and unique visuals.
 
 ### Target Audience Appeal
-Horror fans will appreciate the art, themes, and story.
-Casual gamers will enjoy the shorter and simpler game modes that they can pick up easily whenever they want.
+- Horror fans will appreciate the art, themes, and story.
+- Casual gamers will enjoy the shorter and simpler game modes that they can pick up easily whenever they want.
 Hardcore gamers will like the depth and strategic decision making that comes with mastering the game.
 
 ### Market Differentiation
-Different from most card games, Attack of the Vampirates! is narrative focused and incorporates character relationships into the gameplay. 
-Though many story-based games exist, none feature both a card and board game element.
-While card battles, fishing minigames, and character relationships exist in other games, none have combined all three. 
+- Different from most card games, Attack of the Vampirates! is narrative focused and incorporates character relationships into the gameplay. 
+- Though many story-based games exist, none feature both a card and board game element.
+- While card battles, fishing minigames, and character relationships exist in other games, none have combined all three. 
 ---
 
 ## External Feedback
