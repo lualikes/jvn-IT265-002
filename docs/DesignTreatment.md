@@ -63,18 +63,18 @@ The farther you move on the board, the more difficult the battles will become.
 Travelling across the board should take you 30min. 
 
 ### Game Rules
-Each player chooses a team, blue or green, and takes the character pieces associated with that team. Take the special card that goes with each character as well. 
-Take turns rolling the die and moving that many spaces, the shorter player has the first turn. 
-If you land on a fish space, throw a net at them, trying to get as many in as possible.
-If you land on an enemy space, you will have to duel the other player, go to the duel section to proceed.
-If one of your characters lands on the same space as a character from the other team, each player draws a card from the main deck, whoever gets the card with the lower number will have to give one fish (or the amount on the card) away to the other player.
-The game ends when all of a team’s characters reach the end of the board. Each team will then get points based on the amount of their characters that are still human, the amount of fish they caught, friends they made, and how fast they reached the end. 
+- Each player chooses a team, blue or green, and takes the character pieces associated with that team. Take the special card that goes with each character as well. 
+- Take turns rolling the die and moving that many spaces, the shorter player has the first turn. 
+- If you land on a fish space, throw a net at them, trying to get as many in as possible.
+- If you land on an enemy space, you will have to duel the other player, go to the duel section to proceed.
+- If one of your characters lands on the same space as a character from the other team, each player draws a card from the main deck, whoever gets the card with the lower number will have to give one fish (or the amount on the card) away to the other player.
+- The game ends when all of a team’s characters reach the end of the board. Each team will then get points based on the amount of their characters that are still human, the amount of fish they caught, friends they made, and how fast they reached the end. 
 Battle Rules: 
-The first character goes and must discard 3 cards (not including the special card) without knowing what cards other characters have. 
-The next character goes and does the same thing. 
-After all 3 characters discard 3 cards each, only those that remain in hand will be played. 
-Cards will either be attack, defend, or heal points, with different combos possible based on matching types or numbers on the cards.
-The battle ends if one character on either your team or the enemies loses all health points and dies. 
+- The first character goes and must discard 3 cards (not including the special card) without knowing what cards other characters have. 
+- The next character goes and does the same thing. 
+- After all 3 characters discard 3 cards each, only those that remain in hand will be played. 
+- Cards will either be attack, defend, or heal points, with different combos possible based on matching types or numbers on the cards.
+- The battle ends if one character on either your team or the enemies loses all health points and dies. 
 
 ---
 
