@@ -7,9 +7,9 @@ Attack of the Vampirates!
 ---
 
 ## Concept Statement
-- A spooky-themed board game where every choice matters, from where you travel to on a board to which characters you talk to, and card battles that balance luck with strategy. 
----
+- A spooky-themed board game where every choice matters, from where you travel to on a board to which characters you talk to, and card battles that balance luck with strategy.
 
+---
 ## Genre and Style
 
 ### Genre
@@ -99,8 +99,8 @@ What is the player’s role in the story, and what major events drive the gamepl
 - Lord Frederick: This disgraced noble brought his holy books with him to cast spells on the seas.
 - Walker: A former hunter and explorer with the best shot in the business and a love for grappling hooks. She also gardens on the side.
 - Maria: A known thief with a hoarding problem. Rumor has it she's hiding her expensive weapon collection somewhere on the ship. Don't tell Lord Frederick that most of her loot comes straight from the royal treasury.
----
 
+---
 ## Unique Selling Points (USP)
 Novel combination of building character relationships and fighting card battles.
 Multiple gameplay modes that attract different audiences.
@@ -112,9 +112,9 @@ Detailed unique characters in a multiplayer format.
 ## Inspiration
 
 ### Sources
-Books: Dracula by Bram Stoker
-Movies: Pirates Band of Misfits!
-Games: Hades, War
+- Books: Dracula by Bram Stoker
+- Movies: Pirates Band of Misfits!
+- Games: Hades, War
 
 ### Why It Matters
 - Some of the story elements and aesthetics of vampires and pirates come from the first two sources. This helped me come up with character designs.
