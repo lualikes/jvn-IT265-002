@@ -2,12 +2,13 @@
 
 ---
 ## Change Log
-1. Smaller scope: I didn't have time to complete so I only did a quick round of the card battle.
-2. More interactions between players: One of the feedback that I got said that I should take advantage of the fact that this is a two player game so I changed the main gameplay. I made it so the battles were between the 2 players instead of npcs.
-3. Set up of board: I changed it from horizontal to vertical, made the tiles into circles, and made it more straightforward. 
+1. Smaller scope: I didn't have time to complete so I only did a quick round of the card battle in the digital version.
+2. More interactions between players: One of the feedback that I got after the physical prototype said that I should take advantage of the fact that this is a two player game so I changed the main gameplay. I made it so the battles were between the 2 players instead of npcs.
+3. Set up of board: I changed it from horizontal to vertical, made the tiles into circles, and made it more straightforward. This made more sense to me in the digital prototype. 
 4. Cut for time but still to be included in the future: Relationship tiles where you answer characters questions right for battle buffs. Fishing spots where you collect as many fish as possible in a time limit.
 5. Completely cut out: Different game modes. I think this distracts too much from the main game and would be too much work even outside of the class. 
-6. Play as a ship instead individual characters: I changed the game loop from each of the 6 characters taking turns to each team taking turns, this makes it less tedious for players to move around the board. It also makes battles more fast-paced.
+6. Play as a ship instead individual characters: I changed the game loop from each of the 6 characters taking turns to each team taking turns, this makes it less tedious for players to move around the board. It also makes battles more fast-paced. I realized in the physical prototype that this took way too long and was not fun.
+7. Not sure about defense cards: I didn't include them in the demo and am considering removing them alltogether but I would like to find a replacement eventually, maybe magic? 
 ---
 ## Title
 Attack of the Vampirates! 
@@ -55,7 +56,7 @@ Fishing: In the digital game you would fish by casting your rod and reeling at t
 
 Traversing through the map: Each character goes through the board by a die roll and lands on different spaces that offer benefits/damage. Special characters might move faster than others.
 
-Vampire battles: If you land on the same space as an enemy, a turn-based fight will start. In the digital game, it's also possible for an attack to randomly occur if you don't land on an attack space. Each character has 1 special card unique to them and 6 normal cards dealt based on their type, (magic, support, and fighter). The first character goes and must discard 3 cards (not including the special card) without knowing what cards other characters have. The next character goes and does the same thing. After all 3 characters discard 3 cards each, only those that remain in hand will be played. Cards will either be attack, defend, or heal points, with different combos possible based on matching types or numbers on the cards.
+Vampire battles: If you land on the same space as an enemy, a turn-based fight will start. In the digital game, it's also possible for an attack to randomly occur if you don't land on an attack space. Each character has ~~1 special card unique to them and~~ 6 normal cards dealt ~~based on their type, (magic, support, and fighter).~~ The first character goes and must discard ~~3~~ 4 cards ~~(not including the special card)~~ without knowing what cards will come next ~~other characters have~~. The next ~~character~~ turn goes and does the same thing. After all 3 turns~~characters~~ discard ~~3~~ 4 cards each, only those that remain in hand will be played. Cards will either be attack, defend, or heal points, with different combos possible based on matching types or numbers on the cards.
 
 ### Goals and Challenges
 The primary goal is to survive until the end of the voyage and get to the end of the board before the other player with as many of your crew still human as possible.
@@ -77,9 +78,9 @@ Travelling across the board should take you 30min.
 - If one of your characters lands on the same space as a character from the other team, each player draws a card from the main deck, whoever gets the card with the lower number will have to give one fish (or the amount on the card) away to the other player.
 - The game ends when all of a team’s characters reach the end of the board. Each team will then get points based on the amount of their characters that are still human, the amount of fish they caught, friends they made, and how fast they reached the end. 
 Battle Rules: 
-- The first character goes and must discard 3 cards (not including the special card) without knowing what cards other characters have. 
+- The first character goes and must discard ~~3~~ 4 cards (not including the special card) without knowing what cards other characters have. 
 - The next character goes and does the same thing. 
-- After all 3 characters discard 3 cards each, only those that remain in hand will be played. 
+- After all 3 characters discard ~~3~~4 cards each, only those that remain in hand will be played. 
 - Cards will either be attack, defend, or heal points, with different combos possible based on matching types or numbers on the cards.
 - The battle ends if one character on either your team or the enemies loses all health points and dies. 
 
@@ -213,7 +214,7 @@ Detailed unique characters in a multiplayer format.
 ## Pitch Preparation
 
 ### Pitch Summary
-"Attack of the Vampirates!" incorporates character-driven gameplay and fast paced card battles for a chaotically spooky board game experience. Mini games, randomness, and 3 gameplay modes create endless fun through a different adventure every round. With its blend of horror and humor, this strategic board game can fulfill a niche audience whilst attracting all types of players through its user-friendly rules and unique visuals.
+"Attack of the Vampirates!" incorporates character-driven gameplay and fast paced card battles for a chaotically spooky board game experience. Mini games, randomness, ~~and 3 gameplay modes~~ create endless fun through a different adventure every round. With its blend of horror and humor, this strategic board game can fulfill a niche audience whilst attracting all types of players through its user-friendly rules and unique visuals.
 
 ### Target Audience Appeal
 - Horror fans will appreciate the art, themes, and story.
@@ -255,6 +256,7 @@ I agree with his criticisms and will test out different winning/end conditions g
 ---
 
 ## Appendix
-I’m thinking of making the board more detailed and fleshing out the ocean environment and adding more islands/caves/fishing spots.
+-I’m thinking of making the board more detailed and fleshing out the ocean environment and adding more islands/caves/fishing spots.
+-I only got to finish a basic version of the card game but I would want to work on it more in the future. I might move it to a different engine because I had many issues in GameMaker.
 
 ---
