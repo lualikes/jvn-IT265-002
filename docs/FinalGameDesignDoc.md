@@ -9,7 +9,8 @@
 5. Completely cut out: Different game modes. I think this distracts too much from the main game and would be too much work even outside of the class. 
 6. Play as a ship instead individual characters: I changed the game loop from each of the 6 characters taking turns to each team taking turns, this makes it less tedious for players to move around the board. It also makes battles more fast-paced. I realized in the physical prototype that this took way too long and was not fun.
 7. Not sure about defense cards: I didn't include them in the demo and am considering removing them alltogether but I would like to find a replacement eventually, maybe magic?
-8. Card Battle Scores: In the demo I made it so instead of reducing the health of an enemy the goal is to true and get the highest score possible. I think in the future I go back to making it about defeating the enemy. 
+8. Card Battle Scores: In the demo I made it so instead of reducing the health of an enemy the goal is to true and get the highest score possible. I think in the future I go back to making it about defeating the enemy.
+   
 ---
 ## Title
 Attack of the Vampirates! 
