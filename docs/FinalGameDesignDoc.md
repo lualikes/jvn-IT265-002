@@ -12,6 +12,11 @@
 8. Card Battle Scores: In the demo I made it so instead of reducing the health of an enemy the goal is to true and get the highest score possible. I think in the future I go back to making it about defeating the enemy.
    
 ---
+
+## Demo
+https://lualikes.itch.io/attack-of-the-vampires-demo-it265
+---
+
 ## Title
 Attack of the Vampirates! 
 ---
